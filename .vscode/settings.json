@@ -23,7 +23,7 @@
     "workbench.statusBar.visible": true,
     "rest-client.environmentVariables": {
       "openai": {
-        "key": "{OpenAiAPIkey}"
+        "key": "{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}"
       }
     }
   }
